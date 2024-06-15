@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://tyx197.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'TYX'
 theme = 'tyx'
+
+[params]
+favicon = "static/favicon.ico"
